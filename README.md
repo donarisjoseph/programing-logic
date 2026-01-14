@@ -1,2 +1,2 @@
-# programing-logic
+# Programing-Logic
 Workspace Setup 
